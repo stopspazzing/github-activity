@@ -1,3 +1,6 @@
+*Edited by StopSpazzing since original repository seems dead. Will remove if work continues.
+
+
 # GitHub Activity Stream Widget
 
 This is a small Javascript plugin that creates a stream of your recent GitHub activity. It displays the user's name, username, photo, and a list of each individual activity type. Click [here](https://caseyscarborough.github.io/github-activity) for a demo.
@@ -12,13 +15,13 @@ The two dependencies for the plugin are the [Mustache](https://github.com/janl/m
 
 ```html
 <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/octicons/2.0.2/octicons.min.css">
-<link rel="stylesheet" href="github-activity-0.1.5.min.css">
+<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/stopspazzing/github-activity@latest/src/github-activity.css">
 
-<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/mustache.js/0.7.2/mustache.min.js"></script>
-<script type="text/javascript" src="github-activity-0.1.5.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/mustache.js/0.7.2/mustache.min.js"></script>
+<script src="//cdn.jsdelivr.net/gh/stopspazzing/github-activity@latest/src/github-activity.js"></script>
 ```
 
-The files can be downloaded from the [releases page](https://github.com/caseyscarborough/github-activity/releases).
+The files can be downloaded from the [releases page](https://github.com/stopspazzing/github-activity/releases).
 
 If you'd like to build the files yourself:
 
@@ -28,7 +31,7 @@ npm install bower
 npm install grunt-cli
 
 # Clone the repository
-git clone https://github.com/caseyscarborough/github-activity.git
+git clone https://github.com/stopspazzing/github-activity.git
 cd github-activity
 
 # Install dependencies
