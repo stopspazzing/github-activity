@@ -1,4 +1,4 @@
-*Edited by StopSpazzing since original repository seems dead. Will remove if work continues.*
+*Edited by StopSpazzing since [original repository](https://github.com/caseyscarborough/github-activity) seems dead. Will remove if work continues.*
 
 
 # GitHub Activity Stream Widget
